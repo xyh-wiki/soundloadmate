@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://soundloadmate.xyh.wiki/sitemap.xml
